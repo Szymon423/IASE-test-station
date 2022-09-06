@@ -12,9 +12,9 @@ project of test stiation for SIMATIC S7-1200 system
 
 ## Analog setter
 <p align="center">
-  <img width="750" src="https://user-images.githubusercontent.com/96399051/188469359-c3a9cbe6-e07a-4566-944d-677ea0a70886.png">
+  <img width="1000" src="https://user-images.githubusercontent.com/96399051/188702939-c5b6e93f-04f8-4b82-9c0f-1e261e8db0b6.png">
 </p>
 <p align="center">
-  <img width="750" src="https://user-images.githubusercontent.com/96399051/188469192-b07b9a15-e60d-4e0c-8963-60a718f3446a.png">
+  <img width="700" src="https://user-images.githubusercontent.com/96399051/188469192-b07b9a15-e60d-4e0c-8963-60a718f3446a.png">
 </p>
 
